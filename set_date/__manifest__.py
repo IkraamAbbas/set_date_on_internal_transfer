@@ -3,11 +3,10 @@
     'name': "internal_transfer_date",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        To get same date on Second Payment Voucher as was on First Payment Voucher """,
 
     'description': """
-        Long description of module's purpose
+        To get same date on Second Payment Voucher as was on First Payment Voucher
     """,
 
     'author': "MarkERP",
