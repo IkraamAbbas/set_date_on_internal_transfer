@@ -3,14 +3,18 @@
     'name': "internal_transfer_date",
 
     'summary': """
-        To get same date on Second Payment Voucher as was on First Payment Voucher """,
+        Short (1 phrase/line) summary of the module's purpose, used as
+        subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        To get same date on Second Payment Voucher as was on First Payment Voucher
+        Long description of module's purpose
     """,
 
     'author': "MarkERP",
     'website': "https://markinnovative.com",
+    'license': 'LGPL-3',
+    'price': 50.0,
+    'currency': 'USD',
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
