@@ -13,11 +13,7 @@
     'author': "MarkERP",
     'website': "https://markinnovative.com",
     'license': 'LGPL-3',
-<<<<<<< HEAD
     'price': 50.0,
-=======
-    'price': 10.0,
->>>>>>> 47373da1d9052056485199f589c1304612226ab5
     'currency': 'USD',
 
     # Categories can be used to filter modules in modules listing
